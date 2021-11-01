@@ -1,3 +1,5 @@
+![Hello](https://images.pexels.com/photos/3747150/pexels-photo-3747150.jpeg?cs=srgb&dl=pexels-polina-zimmerman-3747150.jpg&fm=jpg)
+
 - 👋 Hi, I’m @rmanzer-stripe
 - 👀 I’m interested in understanding APIs holisticly
 - 🌱 I’m currently learning stuff
